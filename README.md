@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi!
+
+
+- I’m currently working on improving backend operations with databases
+- I’m currently learning optimization techniques and how deep learning models work
+- I’m looking to collaborate on open source fun projects that actually affect change
+- I’m looking for help with frontend technologies mainly javascript extensions 
+- How to reach me: joshuasackeyjr.1124@gmail.com
+- Pronouns: None
+- Fun fact: I enjoy it more when my rival sports teams lose 
+
+
+<h2>Tech Stack</h2>
+
+- Python | Java  
+- HTML | CSS | JavaScript | Tailwind
+- MySQL | Postgres | 
+- Visual Studio code | Git | Docker
 
 <!--
-**joey727/joey727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joey727)](https://github.com/joey727/github-readme-stats)
 -->
+

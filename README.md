@@ -7,7 +7,7 @@
 - I’m looking for help with frontend technologies mainly javascript extensions 
 - How to reach me: joshuasackeyjr.1124@gmail.com
 - Pronouns: None
-- Fun fact: I enjoy it more when my rival sports teams lose 
+- Fun fact: I enjoy it more when rival sports teams lose 
 
 
 <h2>Tech Stack</h2>
